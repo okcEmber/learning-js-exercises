@@ -2,7 +2,6 @@
 
 Exercises for our learning js bookclub.
 
-
 ## Installation
 
 You'll need node installed.
@@ -16,4 +15,6 @@ you're good to go!
 
 ## Running the exercises
 
-// TODO
+All you have to do is run `npm test` to run the tests!
+
+Once you've made all the tests in `01-js-basics-test.js` pass, you done!!
