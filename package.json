@@ -1,0 +1,19 @@
+{
+  "name": "learning-js-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okcEmber/learning-js-exercises.git"
+  },
+  "author": "@ryanlabouve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okcEmber/learning-js-exercises/issues"
+  },
+  "homepage": "https://github.com/okcEmber/learning-js-exercises#readme"
+}
